@@ -1,0 +1,42 @@
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2\Deemo2\bin\Debug\Deemo2.exe.config
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2\Deemo2\bin\Debug\Deemo2.exe
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2\Deemo2\bin\Debug\Deemo2.pdb
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2\Deemo2\obj\Debug\Deemo2.csprojResolveAssemblyReference.cache
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2\Deemo2\obj\Debug\Deemo2.Browser.resources
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2\Deemo2\obj\Debug\Deemo2.Login.resources
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2\Deemo2\obj\Debug\Deemo2.MainFrame.resources
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2\Deemo2\obj\Debug\Deemo2.Member.resources
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2\Deemo2\obj\Debug\Deemo2.PersonInfo.resources
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2\Deemo2\obj\Debug\Deemo2.Properties.Resources.resources
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2\Deemo2\obj\Debug\Deemo2.csproj.GenerateResource.Cache
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2\Deemo2\obj\Debug\Deemo2.exe
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2\Deemo2\obj\Debug\Deemo2.pdb
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2\Deemo2\obj\Debug\Deemo2.QuestionaireM.resources
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2\Deemo2\obj\Debug\Deemo2.QuestionaireF.resources
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2\Deemo2\obj\Debug\Deemo2.QuestionaireSF36.resources
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2\Deemo2\bin\Debug\Deemo2.exe.manifest
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2\Deemo2\bin\Debug\Deemo2.application
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2\Deemo2\obj\Debug\Deemo2.exe.manifest
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2\Deemo2\obj\Debug\Deemo2.application
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2\Deemo2\obj\Debug\Deemo2.ExaminationList.resources
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2 - Final\Deemo2\bin\Debug\Deemo2.exe.config
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2 - Final\Deemo2\bin\Debug\Deemo2.exe.manifest
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2 - Final\Deemo2\bin\Debug\Deemo2.application
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2 - Final\Deemo2\bin\Debug\Deemo2.exe
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2 - Final\Deemo2\bin\Debug\Deemo2.pdb
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2 - Final\Deemo2\obj\Debug\Deemo2.csprojResolveAssemblyReference.cache
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2 - Final\Deemo2\obj\Debug\Deemo2.Browser.resources
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2 - Final\Deemo2\obj\Debug\Deemo2.ExaminationList.resources
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2 - Final\Deemo2\obj\Debug\Deemo2.Login.resources
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2 - Final\Deemo2\obj\Debug\Deemo2.MainFrame.resources
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2 - Final\Deemo2\obj\Debug\Deemo2.Member.resources
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2 - Final\Deemo2\obj\Debug\Deemo2.PersonInfo.resources
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2 - Final\Deemo2\obj\Debug\Deemo2.Properties.Resources.resources
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2 - Final\Deemo2\obj\Debug\Deemo2.QuestionaireF.resources
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2 - Final\Deemo2\obj\Debug\Deemo2.QuestionaireM.resources
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2 - Final\Deemo2\obj\Debug\Deemo2.QuestionaireSF36.resources
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2 - Final\Deemo2\obj\Debug\Deemo2.csproj.GenerateResource.Cache
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2 - Final\Deemo2\obj\Debug\Deemo2.exe.manifest
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2 - Final\Deemo2\obj\Debug\Deemo2.application
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2 - Final\Deemo2\obj\Debug\Deemo2.exe
+E:\学习\软件开发\C#\【大创】健康信息管理系统\Deemo2 - Final\Deemo2\obj\Debug\Deemo2.pdb
